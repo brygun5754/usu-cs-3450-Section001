@@ -5,7 +5,7 @@ X	Tyler James Beck
 X	Bryson Russell Boulden
 X	Daniel K Boyer
 X	Stephen Joseph Brimhall
-X	Brent Michael Buffenbarger
+Brent Michael Buffenbarger (Brent)
 X	Parker B Bywater
 X	Angel Cai
 X	Wesley B Dashner
