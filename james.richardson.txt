@@ -1,0 +1,3 @@
+Name: James Richardson
+Favorite Coding Environment: IntelliJ
+Favorite Coding Language: Java, Though I have been enjoying coding in HTML and JavaScript.
